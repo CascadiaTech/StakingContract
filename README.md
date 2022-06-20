@@ -18,7 +18,7 @@ The first things you need to do are cloning this repository and installing its
 dependencies:
 
 ```sh
-git clone https://github.com/jensiepoo/staking-contract.git
+git clone https://github.com/CascadiaTech/StakingContract.git
 cd staking-contract
 npm install
 ```
